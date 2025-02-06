@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2c809e42-5f66-422c-aadc-a96eadc5a0da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jzw/bus/BusApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jzw/bus/demos/web/BasicController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jzw/bus/demos/web/PathVariableController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/jzw/bus/demos/web/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/CloudNative/CD/什么是CD.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/CloudNative/CI/什么是CI.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/CloudNative/Docker/Docker的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/CloudNative/K8s/K8s的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Base/Java8新特性.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/架构组成/选型集成/常见的SpringCloud集成方案一.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Dubbo/dubbo的发展史" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Eureka/Eureka的发展史" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Hystrix/Hystrix的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Nacos/Nacos的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Ribbon/Ribbon的发展史" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/SpringCloudConfig/Config的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Zipkin/Zipkin的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Zuul/Zuul的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/衍生问题/分布式事务/什么是分布式事务.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Framework/Mybatis/Myabtis的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Framework/Spring/Spring的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Framework/SpringMVC/SpringMVC的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/JUC/常见的线程池.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/JVM/JVM内存组成结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/MQ/Kafka/Kafka的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/MQ/MQ选型以及对比.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/MQ/RabbitMQ/RabbitMQ的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/MQ/RocketMQ/RocketMQ的发展史" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Tools/Git/Git和SVN之间的对比.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Tools/Git/Git的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Tools/Maven/Maven与gradle之间的对比.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Tools/Maven/Maven的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/云计算/Flink/Flink的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/云计算/Hadoop/Hadoop的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/云计算/Spark/Spark的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/优秀文章/优秀网站参考.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/团队管理/工时评估方案/多因素多维度工时评估方式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/团队管理/敏捷开发/敏捷开发之.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/团队管理/绩效评估方案/绩效评估方案的组成.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/Caffeine/Caffeine的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/ClickHouse/ClickHouse的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/Doris/Doris的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/ElasticSearch/ElasticSearch的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/HBase/HBase的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/Hive/Hive的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/MonGo/Mongo的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/MySQL/Mysql的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/Redis/Redis的发展史.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/理论知识/算法数据结构/字符串/Kmp算法.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/jzw/bus/BusApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习总线.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../学习总线.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/doc/学习总线.xmind" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleUserHome" value="$PROJECT_DIR$/../../../gradle_user_home" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="customMavenHome" value="D:\develop\maven\apache-maven-mall" />
+        <option name="mavenHomeTypeForPersistence" value="CUSTOM" />
+        <option name="userSettingsFile" value="D:\Repository\settings-mall.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2se9Zz5h0hnUQaX4G9QuTfGj6Ch" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Maven.bus [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/workspace/LearningBus/Bus",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\LearningBus\Bus\src\main\resources\doc\云计算" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.24807.4" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c809e42-5f66-422c-aadc-a96eadc5a0da" name="Changes" comment="" />
+      <created>1738805232865</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1738805232865</updated>
+      <workItem from="1738805234049" duration="1964000" />
+      <workItem from="1738807420763" duration="8531000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
