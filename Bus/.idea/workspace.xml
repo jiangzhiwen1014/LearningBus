@@ -4,72 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2c809e42-5f66-422c-aadc-a96eadc5a0da" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HELP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jzw/bus/BusApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jzw/bus/demos/web/BasicController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jzw/bus/demos/web/PathVariableController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jzw/bus/demos/web/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/CloudNative/CD/什么是CD.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/CloudNative/CI/什么是CI.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/CloudNative/Docker/Docker的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/CloudNative/K8s/K8s的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Base/Java8新特性.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/架构组成/选型集成/常见的SpringCloud集成方案一.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Dubbo/dubbo的发展史" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Eureka/Eureka的发展史" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Hystrix/Hystrix的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Nacos/Nacos的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Ribbon/Ribbon的发展史" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/SpringCloudConfig/Config的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Zipkin/Zipkin的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/组件/Zuul/Zuul的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Cloud/衍生问题/分布式事务/什么是分布式事务.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Framework/Mybatis/Myabtis的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Framework/Spring/Spring的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Framework/SpringMVC/SpringMVC的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/JUC/常见的线程池.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/JVM/JVM内存组成结构.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/MQ/Kafka/Kafka的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/MQ/MQ选型以及对比.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/MQ/RabbitMQ/RabbitMQ的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/MQ/RocketMQ/RocketMQ的发展史" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Tools/Git/Git和SVN之间的对比.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Tools/Git/Git的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Tools/Maven/Maven与gradle之间的对比.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Tools/Maven/Maven的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/云计算/Flink/Flink的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/云计算/Hadoop/Hadoop的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/云计算/Spark/Spark的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/优秀文章/优秀网站参考.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/团队管理/工时评估方案/多因素多维度工时评估方式.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/团队管理/敏捷开发/敏捷开发之.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/团队管理/绩效评估方案/绩效评估方案的组成.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/Caffeine/Caffeine的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/ClickHouse/ClickHouse的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/Doris/Doris的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/ElasticSearch/ElasticSearch的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/HBase/HBase的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/Hive/Hive的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/MonGo/Mongo的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/MySQL/Mysql的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/数据库/Redis/Redis的发展史.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/理论知识/算法数据结构/字符串/Kmp算法.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jzw/bus/BusApplicationTests.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../学习总线.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../学习总线.xmind" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/doc/学习总线.xmind" afterDir="false" />
+    <list default="true" id="2c809e42-5f66-422c-aadc-a96eadc5a0da" name="Changes" comment="Bus目录结构初始化">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Base/13_枚举.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Base/1_文件流.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/doc/Java/Base/2_反射.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/pic/Java流类图结构.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,22 +39,28 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Maven.bus [clean].executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/workspace/LearningBus/Bus",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.bus [clean].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.BusApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;20&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/workspace/LearningBus/Bus&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RebelAgentSelection">
     <selection>jr</selection>
   </component>
@@ -121,6 +68,26 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\LearningBus\Bus\src\main\resources\doc\云计算" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="BusApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="bus" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.jzw.bus.BusApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.jzw.bus.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.BusApplication" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -138,11 +105,25 @@
       <option name="presentableId" value="Default" />
       <updated>1738805232865</updated>
       <workItem from="1738805234049" duration="1964000" />
-      <workItem from="1738807420763" duration="8531000" />
+      <workItem from="1738807420763" duration="13062000" />
+      <workItem from="1738831303335" duration="522000" />
     </task>
+    <task id="LOCAL-00001" summary="Bus目录结构初始化">
+      <option name="closed" value="true" />
+      <created>1738821715710</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1738821715710</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Bus目录结构初始化" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bus目录结构初始化" />
   </component>
 </project>
